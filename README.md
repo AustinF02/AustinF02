@@ -1,8 +1,8 @@
 - 🙋‍♂️ Hi, I’m Austin
 - 🙆‍♂️ I’m interested in Data Science
 - 🌵 I’m currently learning Python
-- 💞️ 
-- 📫 How to reach me ...
+- 🏫 Completing my master in Information Systems @LUC
+- 🖖 Pronouns: he/him
 
 
 
