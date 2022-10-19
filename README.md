@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hi, I’m Austin
-- 🙆‍♂️ I’m interested in Data Science
+- 📊 I’m interested in Data Science
 - 🌵 I’m currently learning Python & Github
 - 🏫 Completing my master in Information Systems @LUC
 - 🖖 Pronouns: he/him
