@@ -44,7 +44,7 @@ I thrive in multicultural environments, bridging global partners and local techn
 | --- | --- |
 | **Data engineering** | Designed a serverless ETL pipeline using **AWS Glue/PySpark, Amazon S3, and Amazon Athena**, processing **20–30 GB of daily data**. |
 | **Operational efficiency** | Automated manual workflows, achieving an **80–90% reduction in reporting time**. |
-| **Data visualization** | Developed **real-time stakeholder dashboards** using **Amazon QuickSight and Tableau**. |
+| **Data visualization** | Developed **real-time stakeholder dashboards** using **Amazon Quick and Tableau**. |
 | **Recognition** | Named a **[2026 Japan AWS Jr. Champion](https://aws.amazon.com/jp/blogs/psa/2026-japan-aws-jr-champions/)**. |
 
 ## Technical Stack
@@ -70,7 +70,7 @@ I thrive in multicultural environments, bridging global partners and local techn
 
 ### Analytics & Frontend
 
-![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logoColor=white)
+![Amazon Quick](https://img.shields.io/badge/Amazon_Quick-232F3E?style=for-the-badge&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -78,7 +78,9 @@ I thrive in multicultural environments, bridging global partners and local techn
 ## Education & Languages
 
 **MS in Information Systems & Analytics**  
-[Loyola University Chicago](https://www.luc.edu/) · May 2023
+![Loyola University Chicago](https://img.shields.io/badge/Loyola-University_Chicago-8D0034?style=for-the-badge&labelColor=FEBC18)
+
+May 2023
 
 | Language | Proficiency |
 | --- | --- |
