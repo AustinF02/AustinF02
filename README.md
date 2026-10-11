@@ -78,7 +78,7 @@ I thrive in multicultural environments, bridging global partners and local techn
 ## Education & Languages
 
 **MS in Information Systems & Analytics**  
-![Loyola University Chicago](https://img.shields.io/badge/Loyola-University_Chicago-8D0034?style=for-the-badge&labelColor=FEBC18)
+<a href="https://www.luc.edu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Loyola_University_Chicago-8D0034?style=for-the-badge" alt="Loyola University Chicago"></a>
 
 May 2023
 
