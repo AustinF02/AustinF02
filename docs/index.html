@@ -3,24 +3,39 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#d5e4ec">
+<meta name="theme-color" content="#3C5A57">
 <title>基隆クルーズ寄港｜台北・九份の2プラン</title>
 <style>
+:root {
+  --brand-deep: #3C5A57;
+  --brand: #73908C;
+  --brand-mist: #B9C8C4;
+  --brand-gold: #C0A062;
+  --brand-ink: #22302E;
+  --paper: #fff;
+  --page: #f5f7f5;
+  --tint: #e6eeeb;
+  --line: #d5dfdb;
+}
 * { box-sizing: border-box }
-body { margin: 0; background: #d5e4ec; color: #243b49; font: 16px/1.7 system-ui, sans-serif }
+body { margin: 0; background: var(--page); color: var(--brand-ink); font: 16px/1.7 system-ui, sans-serif }
 main { max-width: 42rem; margin: auto; padding: 1.5rem 1rem 2.5rem }
-header, section { background: #edf4f7; padding: 1.15rem; margin-bottom: 1rem; border: 1px solid #99b4c3; border-radius: 1rem }
+header, section { padding: 1.15rem; margin-bottom: 1rem; border: 1px solid var(--line); border-radius: 1rem }
+header { background: var(--brand-deep); color: var(--paper); border-color: var(--brand-deep) }
+section { background: var(--paper) }
 h1, h2 { line-height: 1.35; margin: 0 0 .65rem }
 h1 { font-size: clamp(1.7rem, 6vw, 2.35rem) }
+h1::after { content: ""; display: block; width: 3.75rem; height: 3px; margin-top: .85rem; border-radius: 3px; background: var(--brand-gold) }
 h2 { font-size: 1.3rem }
 p { margin: .7rem 0 0 }
-a { color: #325d76; text-underline-offset: .14em }
+a { color: var(--brand-deep); text-underline-offset: .14em }
+a:focus-visible { outline: 2px solid var(--brand-deep); outline-offset: 3px }
 dl { margin: .6rem 0 0 }
-dt { border-top: 1px solid #c4d9e4; padding-top: .65rem; color: #325d76; font-weight: 700 }
+dt { border-top: 1px solid var(--line); padding-top: .65rem; color: var(--brand-deep); font-weight: 700 }
 dd { margin: 0 0 .65rem }
-.note { background: #c4d9e4; padding: .65rem .8rem; border-radius: .6rem }
-footer { font-size: .93rem; color: #3f5866 }
-.copyright { margin-top: 1.25rem; padding-top: .75rem; border-top: 1px solid #99b4c3 }
+.note { background: var(--tint); color: var(--brand-ink); border: 1px solid var(--brand-mist); padding: .65rem .8rem; border-radius: .6rem }
+footer { font-size: .93rem }
+.copyright { margin-top: 1.25rem; padding-top: .75rem; border-top: 1px solid var(--line) }
 </style>
 </head>
 <body>
